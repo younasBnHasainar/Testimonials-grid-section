@@ -8,9 +8,9 @@ Model of grid containing testimonials of customer feedbacks.
 * Can be easily integrated to websites
 
 ## PREVIEW
-![Alt text](<images/output preview.png>)
+![Preview of solution](<images/output preview.png>)
 
-##Personal Notes
+## Personal Notes
 * Practiced Flexbox skills.
 * Practised box shadow properties.
 * Practiced 'Position Absolute'.
